@@ -1,0 +1,19 @@
+@import "global/mixins";
+@import "global/vars";
+@import "global/base";
+@import "global/layout";
+@import "global/utilities";
+@import "global/typography";
+
+@import "global/btn";
+@import "global/nav";
+@import "global/animations";
+
+@import "page/header";
+@import "page/about";
+@import "page/skills";
+@import "page/projects";
+@import "page/gallery";
+@import "page/contact";
+@import "page/footer";
+
